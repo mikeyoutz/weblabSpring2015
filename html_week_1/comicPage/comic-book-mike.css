@@ -1,0 +1,51 @@
+#panel3 {
+    background: transparent url(panel3.jpg) no-repeat top;
+height:305px;
+width:903px;
+}
+
+#row3 div {
+    float: left;
+}
+
+#bubble1 {
+     position-absolute;
+     top: 19px;
+     left:29px;
+     font-family:sans-serif;
+     font-size:19px;
+ }
+
+#bubble2 {
+    position:absolute;
+    top: 19px;
+    left:29px;
+    font-family:sans-serif;
+    font-size:19px;
+}
+
+#panel5 {
+    background: transparent url(panel5.jpg) no-repeat top;
+    height: 556px;
+    width: 572px;
+}
+
+#bubble1 {
+    position-absolute;
+    top: 19px;
+    left: 29px;
+    font-family: sans-serif;
+    font-size: 19px;
+}
+
+.bubbles {
+    position-absolute;
+    font-family;;
+    font-size: 17px;
+    text-transform: uppercase;
+    letter-spacing: -1px;
+    word-spacing: 1px;
+
+}
+
+quick change

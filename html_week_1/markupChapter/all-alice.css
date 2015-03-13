@@ -1,0 +1,15 @@
+.centered-text{
+    width: 50%;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: large;
+    color:green;
+}
+
+p!! {
+    text-indent: 3em;
+    color: aqua;
+}
+
